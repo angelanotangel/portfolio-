@@ -1,0 +1,19 @@
+body {
+    font-family: 'Actor'; font-size: 16px;
+}
+
+
+.setup {
+    display: flex;
+  align-items: center;
+  background-image: url('https://lh3.googleusercontent.com/-STsqgn5znZE/Wh_BVL9MlqI/AAAAAAAAJs8/P794BudmZvYDAsHiylH__lOUB33xii_wgCLcBGAs/s512/Setup.jpg'); 
+  background-size: cover;
+  color: #ffffff;
+  height: 500px;
+  text-shadow: 0.25px 0.25px 0.25px #000000;
+  text-align: center;
+}
+
+.text-center {
+  text-align: center;
+}
